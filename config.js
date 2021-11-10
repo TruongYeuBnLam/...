@@ -17,3 +17,4 @@ const CONFIG = {
     messDesc: 'Mốt hết dịch, mình qua đón đi chơi nha.',
     btnAccept: 'Okiiiii lun <3',
     messLink: messenger.com/t/100072876942751
+    
